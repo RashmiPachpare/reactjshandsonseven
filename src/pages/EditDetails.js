@@ -9,7 +9,7 @@ const EditDetails = () => {
   const navigate=useNavigate();
     const data=useLocation();
     const dataid=data.state.id;
-    const StdDetail=useSelector((state)=>state.student.filter((item)=>item.id==dataid));
+    const StdDetail=useSelector((state)=>state.student.filter((item)=>item.id===dataid));
   
     const stdName=StdDetail[0].Name
     const stdAge=StdDetail[0].Age

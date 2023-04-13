@@ -12,7 +12,7 @@ export const StudentSlice = createSlice({
 
             const { id, Name, Age, Course, Batch } = action.payload;
 
-            const existingStudent = state.find(student => student.id == id);
+            const existingStudent = state.find(student => student.id === id);
             existingStudent.Name = Name;
             existingStudent.Age = Age;
             existingStudent.Course = Course;
