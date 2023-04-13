@@ -1,0 +1,95 @@
+#name{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 100px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
+#age{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 200px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
+#course{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 100px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
+#batch{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 200px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
+#cancel{
+    position: absolute;
+    margin-right: 1100px;
+    margin-top: 300px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+
+}
+#submit{
+    position: absolute;
+    margin-right: 800px;
+    margin-top: 300px;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    background-color: coral;
+
+}
+#nam{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 110px;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+}
+#ag{
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 110px;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+
+}
+#cor{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 110px;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+
+}
+#bat{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 200px;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+   
+
+}
+#ag{
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 200px;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+}
